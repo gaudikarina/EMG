@@ -7,4 +7,4 @@ the SEMG signal, the smoothed version is obtained using a moving average lter, 
 using SEMG signals obtained from the anterior tibial and gastrocnemius muscles, taken during the walking of five subjects. Our best detector shows values of sensitivity of 87.91%, specicity of 87.15%, and detection delay
 of 23.75 ms. Future work is directed to the inclusion of a temporal threshold (a double-threshold approach) to minimize false detections and reduce detection delays.
 
-This paper has been published in the following link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8922/89220C/A-threshold-based-approach-for-muscle-contraction-detection-from-surface/10.1117/12.2035673.short#_=_
+This work has been published in the following link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8922/89220C/A-threshold-based-approach-for-muscle-contraction-detection-from-surface/10.1117/12.2035673.short#_=_
